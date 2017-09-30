@@ -14,6 +14,11 @@
 4. the seed data will be stored in data.txt as 
     x, y, event_id, price
 
+# How to compile
+I have compiled the project, and you can compile yourself too.
+1. cd src
+2. javac *.java
+
 # java API doc
 /Doc/BasicInfo
 /Doc/Query
